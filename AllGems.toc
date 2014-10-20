@@ -1,4 +1,4 @@
-## Interface: 50300
+## Interface: 50400
 ## Title : AllGems
 ## Notes: Track which MoP gem cuts you're missing
 ## Author: Cal Henderson (Bees on Hyjal-US)
